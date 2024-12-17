@@ -101,7 +101,7 @@ Top 5 most predictive features were identified, simplifying the model without lo
 |Metric      |	Naive Predictor  |	Unoptimized AdaBoost	| Optimized AdaBoost|
 |------------|-------------------|------------------------|-------------------|
 |Accuracy	   |    0.2478         |	0.8576	              |    0.8622         |
-| F-score	      0.2917           |	0.7246 	              |    0.7348         |
+| F-score	   |  0.2917           |	0.7246 	              |    0.7348         |
 
 **Top 5 Features:**
 
